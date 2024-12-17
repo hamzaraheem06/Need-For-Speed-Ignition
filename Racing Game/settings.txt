@@ -1,0 +1,3 @@
+MusicPaused=1
+Volume=50
+Fullscreen=0
